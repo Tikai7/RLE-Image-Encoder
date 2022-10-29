@@ -27,7 +27,7 @@
    - Pour avoir un exemple d'execution nous avons la fonction :
         - MainImage()
 
-# Note pour la fonction RLE_Encode()
+# Note pour la fonction MainImage()
 
    - Cette fonction en plus de compresser une image, elle sauvegarder la chaine obtenue dans un QRCode
    - Lorseque l'image est trop grande pour le QRCode les étapes suivantes sont effectuées : 
