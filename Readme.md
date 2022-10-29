@@ -1,7 +1,7 @@
 
 # L'objectif du projet
 
-   - Ce project consiste à écrire un Encodeur et Décodeur RLE s'appliquant à une image
+   - Ce project consiste à écrire un Encodeur et Décodeur RLE (sans perte) s'appliquant à une image
         binaire mais aussi en niveau de gris.
 
 # Prérequis
@@ -35,5 +35,13 @@
         - Division de la chaine en sous chaine de moins de 2000 caractères
         - Création de N QRCode tel que N est le nombre de division de la chaine précédente.
         - Les QRCodes sont numérotés pour effectuer la décompression dans le bon ordre a l'appel de QR_Decode()
+
+# Exemple d'images utilisées
+
+   ![binary_random1](https://user-images.githubusercontent.com/68500496/198822666-26256828-e075-4fc1-bb78-06b0ba501050.png)
+   
+   
+
+   
 
 
